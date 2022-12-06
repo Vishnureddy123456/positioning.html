@@ -1,0 +1,37 @@
+div{
+	border: 2px solid black;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	text-align: center;
+}
+#big{
+	width: 350px;
+	height: 350px;
+	margin: 200px 0 0 550px;
+	background: linear-gradient(45deg,lightcoral,chocolate);
+}
+button{
+	margin-top: 75px ;
+}
+#first{
+	background: linear-gradient(45deg,grey,orange);
+	margin-top: 125px;
+}
+#second{
+	background: linear-gradient(45deg,red,blue);
+	background-color: lightskyblue;
+}
+#third{
+	background: linear-gradient(45deg,lightblue,lightgreen);
+	background-color: lightpink;
+}
+#one{
+	background-color: darkcyan;
+}
+#two{
+	background-color: skyblue;
+}
+#thr{
+	background-color: rosybrown;
+}
